@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 80%;
+    position: fixed;
+    left: 50%;
+    margin-left: -40%; 
+}
+header nav{
+    background-color: black;
+    width: 100%;
+    margin: auto
+}
+
+header nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+header nav ul div{
+    display: flex;
+    margin: 0px;
+    align-items: center;
+}
+header nav ul div li{
+    margin: 5px;
+    padding: 5px;
+    color: darkgrey;
+    list-style: none;   
+}
+header nav ul div li:hover{
+    color :white;
+}
+#logoSupercell{
+    height: 54px;
+    margin: 24px 0 0 30px;
+}
+
+#logoSupercellId{
+    height: 30px;
+}
+
+section figure img{
+    width: 100vw;
+    position: ;
+}
+main section figure image{
+    padding: 50px
+}
