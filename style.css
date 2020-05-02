@@ -40,11 +40,11 @@ header nav ul div li:hover{
 #logoSupercellId{
     height: 30px;
 }
-
-section figure img{
-    width: 100vw;
-    position: ;
+.sectionOne figure img{
+    width: 100%;
 }
-main section figure image{
-    padding: 50px
+
+.sectionTwo figure img{
+    height: 680px;
+    position: left;
 }
